@@ -14,8 +14,8 @@ class Rectangle {
 		return this._width * this._height
 	}
 	
-	}
 }
+
 
 class Square extends Rectangle  {
 	constructor (side){
